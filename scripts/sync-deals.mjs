@@ -3,7 +3,8 @@ import path from 'node:path';
 
 const XRB_API = 'https://www.xianrenbing.com/api/v1/deals?period=week&page_size=100&page=1';
 const XRB_SITE = 'https://www.xianrenbing.com';
-const LUFEI_SITE = 'https://lufeiai.shop/?utm_source=github&utm_medium=awesome_deals';
+const TG_CHANNEL = 'https://t.me/xianrenbing_ai';
+const LUFEI_SITE = 'https://lufeiai.shop/go/06862e33b7';
 const RESET_SITE = 'https://reset.lufeiai.shop/';
 
 const RE_SKIP = /已结束|已失效|已售罄|转让|收一台|出一台|测速(?:报告|留档)|家宽|代理IP|到期20\d{6}|小红书养号/i;
@@ -102,10 +103,11 @@ async function main() {
     sections.push('');
   }
 
-  sections.push('### 常用工具与稳妥备选');
+  sections.push('### 常用工具与实时推送');
   sections.push('');
-  sections.push(`- 实时免费羊毛与饼友验真：[仙人饼社区](${XRB_SITE}/)`);
-  sections.push(`- ChatGPT / Claude / Codex / Gemini 24h 自助商城与新手指南：[路飞AI 商城](${LUFEI_SITE})`);
+  sections.push(`- Telegram 实时精选播报频道（免刷屏）：[@xianrenbing_ai](${TG_CHANNEL})`);
+  sections.push(`- 实时免费羊毛与饼友验真：[仙人饼社区](${XRB_SITE}/) · [2026 AI 订阅全球比价](${XRB_SITE}/prices) · [每日领免费 Token](${XRB_SITE}/daily-tokens)`);
+  sections.push(`- ChatGPT / Claude / Codex / Gemini 24h 全自动现货：[路飞AI 商城](${LUFEI_SITE})`);
   sections.push(`- Codex / Antigravity / Claude 额度重置监控：[AI 重置雷达](${RESET_SITE})`);
 
   const block = sections.join('\n');
