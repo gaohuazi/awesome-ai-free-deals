@@ -3,7 +3,7 @@
 > 每日北京时间 08:30 由 GitHub Actions 自动同步更新，聚合全网真实可领的 **AI 免费额度、免费大模型 API、开源编程工具、算力补贴与优惠情报**。
 >
 > - Telegram 自动精选播报频道（零刷屏，手机实时提醒）：[@xianrenbing_ai (t.me/xianrenbing_ai)](https://t.me/xianrenbing_ai)
-> - 完整实时线报与 2026 AI 订阅全球比价：[仙人饼社区 (xianrenbing.com)](https://www.xianrenbing.com/) · [AI订阅比价](/prices) · [每日领Token](https://www.xianrenbing.com/daily-tokens)
+> - 完整实时线报与 2026 AI 订阅全球比价：[仙人饼社区 (xianrenbing.com)](https://www.xianrenbing.com/) · [AI订阅比价](https://www.xianrenbing.com/prices) · [每日领Token](https://www.xianrenbing.com/daily-tokens)
 > - 免费额度抢完 / 需要稳定主力订阅（ChatGPT Plus / Go / Claude Pro / Codex 额度 / Gemini）：[路飞AI 24小时自助商城 (lufeiai.shop)](https://lufeiai.shop/go/06862e33b7)
 > - 主流 AI 额度重置监控：[AI 重置雷达 (reset.lufeiai.shop)](https://reset.lufeiai.shop/)
 
