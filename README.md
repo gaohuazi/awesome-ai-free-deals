@@ -8,7 +8,7 @@
 > - 主流 AI 额度重置监控：[AI 重置雷达 (reset.lufeiai.shop)](https://reset.lufeiai.shop/)
 
 <!-- AUTO_UPDATED_START -->
-## 今日精选清单（更新日期：2026-11-26 北京时间）
+## 今日精选清单（更新日期：2026-11-27 北京时间）
 
 本次共筛选 **28** 条高价值 AI 免费额度与优惠线报，按热度与国内可用性排序：
 
@@ -16,44 +16,41 @@
 
 | 线报标题 | 亮点与条件摘要 | 日期 | 详情 |
 | --- | --- | --- | --- |
-| **【极客工具】开源进程级代理方案：Windows 环境下免 TUN 精准控制 Antigravity 及 Gemini 4 访问** | 开发工具与自动化项目：【极客工具】开源进程级代理方案：Windows 环境下免 TUN 精准控制 Antigravity 及 Gemini 4 访问。涉及主题：编程开发、开源项目、兼容性。信息与资格需结合发布日期及官方规 | 2026-11-26 | [查看验真](https://www.xianrenbing.com/deal/1000002994) |
-| **【AI福利】ChatGPT Team 团队版首月 0 元五席位订阅活动** | 免费资源与试用活动：【AI福利】ChatGPT Team 团队版首月 0 元五席位订阅活动。涉及主题：试用条件、续费事项、支付方式。信息与资格需结合发布日期及官方规则核实。 | 2026-11-25 | [查看验真](https://www.xianrenbing.com/deal/1000002957) |
-| **【AI福利】Gemini Pro会员专享10美元GCP云信用额度，长效绑定不失效** | 免费资源与试用活动：【AI福利】Gemini Pro会员专享10美元GCP云信用额度，长效绑定不失效。涉及主题：支付方式。信息与资格需结合发布日期及官方规则核实。 | 2026-11-25 | [查看验真](https://www.xianrenbing.com/deal/1000002954) |
-| **【AI福利】GPT团队套餐5席位免费1个月，需Plus账号实测成功** | 免费资源与试用活动：【AI福利】GPT团队套餐5席位免费1个月，需Plus账号实测成功。涉及主题：支付风险。信息与资格需结合发布日期及官方规则核实。 | 2026-11-25 | [查看验真](https://www.xianrenbing.com/deal/1000002933) |
-| **【AI前沿】Gemini官方宣布因感恩节重置TiboVarunMohan用户哈基米额度，附第三方状态查询站点** | AI 模型与行业资讯：【AI前沿】Gemini官方宣布因感恩节重置TiboVarunMohan用户哈基米额度，附第三方状态查询站点。信息与资格需结合发布日期及官方规则核实。 | 2026-11-26 | [查看验真](https://www.xianrenbing.com/deal/1000003001) |
-| **【AI前沿】OpenAI 和 Anthropic 内部模型或无法对外发布** | AI 模型与行业资讯：【AI前沿】OpenAI 和 Anthropic 内部模型或无法对外发布。信息与资格需结合发布日期及官方规则核实。 | 2026-11-24 | [查看验真](https://www.xianrenbing.com/deal/1000002918) |
-| **【AI前沿】ClaudePro 周配额信息曝光** | AI 模型与行业资讯：【AI前沿】ClaudePro 周配额信息曝光。信息与资格需结合发布日期及官方规则核实。 | 2026-11-24 | [查看验真](https://www.xianrenbing.com/deal/1000002917) |
-| **【AI前沿】高缓存低损耗 GPT-6.1-Sol 与 GPT-6-Astra 90% 以上缓存方案** | AI 模型与行业资讯：【AI前沿】高缓存低损耗 GPT-6.1-Sol 与 GPT-6-Astra 90% 以上缓存方案。信息与资格需结合发布日期及官方规则核实。 | 2026-11-24 | [查看验真](https://www.xianrenbing.com/deal/1000002911) |
+| **【AI前沿】智谱AI推出GLM Flash系列模型永久免费策略** | AI 模型与行业资讯：【AI前沿】智谱AI推出GLM Flash系列模型永久免费策略。涉及主题：图像处理、视频应用。信息与资格需结合发布日期及官方规则核实。 | 2026-11-27 | [查看验真](https://www.xianrenbing.com/deal/1000003123) |
+| **【AI前沿】DeepSeek V4.1 Flash 免费模型上线，OpenAI 兼容接口** | AI 模型与行业资讯：【AI前沿】DeepSeek V4.1 Flash 免费模型上线，OpenAI 兼容接口。涉及主题：兼容性、试用条件。信息与资格需结合发布日期及官方规则核实。 | 2026-11-27 | [查看验真](https://www.xianrenbing.com/deal/1000003115) |
+| **【AI前沿】AWS Quick AI办公平台免费版集成Claude Opus 5.5模型** | AI 模型与行业资讯：【AI前沿】AWS Quick AI办公平台免费版集成Claude Opus 5.5模型。涉及主题：开源项目、试用条件、支付方式。信息与资格需结合发布日期及官方规则核实。 | 2026-11-26 | [查看验真](https://www.xianrenbing.com/deal/1000003094) |
+| **【AI前沿】JetBrains Junie 推出 Lite 层级，免费使用 GPT-6 Luna 直至 2026 年底** | AI 模型与行业资讯：【AI前沿】JetBrains Junie 推出 Lite 层级，免费使用 GPT-6 Luna 直至 2026 年底。涉及主题：支付方式。信息与资格需结合发布日期及官方规则核实。 | 2026-11-26 | [查看验真](https://www.xianrenbing.com/deal/1000003087) |
+| **【AI前沿】OpenRouter 上线 inclusionAI Ling 3.2 Flash 免费 API 接口** | AI 模型与行业资讯：【AI前沿】OpenRouter 上线 inclusionAI Ling 3.2 Flash 免费 API 接口。涉及主题：兼容性。信息与资格需结合发布日期及官方规则核实。 | 2026-11-26 | [查看验真](https://www.xianrenbing.com/deal/1000003062) |
+| **【人工智能】本地面板管理多个 ChatGPT 账号信息** | AI 模型与行业资讯：【人工智能】本地面板管理多个 ChatGPT 账号信息。信息与资格需结合发布日期及官方规则核实。 | 2026-11-27 | [查看验真](https://www.xianrenbing.com/deal/1000003139) |
+| **【AI前沿】Kimi for Science 科研支持计划：科研人员申请最高可得 $20,000 API 额度（约 70 亿 Tokens）** | AI 模型与行业资讯：【AI前沿】Kimi for Science 科研支持计划：科研人员申请最高可得 $20,000 API 额度（约 70 亿 Tokens）。信息与资格需结合发布日期及官方规则核实。 | 2026-11-27 | [查看验真](https://www.xianrenbing.com/deal/1000003114) |
 
 ### AI 编程与开源开发工具
 
 | 线报标题 | 亮点与条件摘要 | 日期 | 详情 |
 | --- | --- | --- | --- |
-| **【AI开发工具】开源 Go 项目 Rigdepot 发布 0.1.0：统一管理 Skill/MCP/工作流并同步至 Claude Code、Co** | 开发工具与自动化项目：【AI开发工具】开源 Go 项目 Rigdepot 发布 0.1.0：统一管理 Skill/MCP/工作流并同步至 Claude Code、Codex 及 OpenCode。涉及主题：开源项目、兼容 | 2026-11-26 | [查看验真](https://www.xianrenbing.com/deal/1000002998) |
-| **【极客开源】Google Antigravity 2.0 多语言汉化包：免改 app.asar 原生秒切 14 种语言，保持 macOS 签名完** | 开发工具与自动化项目：【极客开源】Google Antigravity 2.0 多语言汉化包：免改 app.asar 原生秒切 14 种语言，保持 macOS 签名完整。涉及主题：编程开发、开源项目、兼容性。信息与资格需 | 2026-11-25 | [查看验真](https://www.xianrenbing.com/deal/1000002939) |
-| **【极客工具】开源手机端 Agent 聚合框架 AgentTower，支持远程连接 Claude Code 等 AI 编码助手** | AI 模型与行业资讯：【极客工具】开源手机端 Agent 聚合框架 AgentTower，支持远程连接 Claude Code 等 AI 编码助手。涉及主题：编程开发、开源项目、云服务。信息与资格需结合发布日期及官方规则 | 2026-11-25 | [查看验真](https://www.xianrenbing.com/deal/1000002938) |
-| **【AI开发工具】开源项目 Gerdr：图形化界面管理 Claude Code / Codex，集成 Superagent 自动派活与移动端支持** | AI 模型与行业资讯：【AI开发工具】开源项目 Gerdr：图形化界面管理 Claude Code / Codex，集成 Superagent 自动派活与移动端支持。涉及主题：语音处理、编程开发、开源项目、兼容性。信息与 | 2026-11-25 | [查看验真](https://www.xianrenbing.com/deal/1000002937) |
-| **【极客开源】基于原生 Swift 开发 macOS 菜单栏 Android/鸿蒙开发工具箱，替代 Android Studio 日常操作** | 开发工具与自动化项目：【极客开源】基于原生 Swift 开发 macOS 菜单栏 Android/鸿蒙开发工具箱，替代 Android Studio 日常操作。涉及主题：开源项目。信息与资格需结合发布日期及官方规则核实。 | 2026-11-26 | [查看验真](https://www.xianrenbing.com/deal/1000003007) |
-| **【极客开源】Rust 跨平台嵌入式开发工作台 RavomIO 开源，支持 probe-rs 烧录调试与 MCP Server** | 开发工具与自动化项目：【极客开源】Rust 跨平台嵌入式开发工作台 RavomIO 开源，支持 probe-rs 烧录调试与 MCP Server。涉及主题：编程开发、开源项目。信息与资格需结合发布日期及官方规则核实。 | 2026-11-26 | [查看验真](https://www.xianrenbing.com/deal/1000003004) |
+| **【实用工具】自托管小工具将飞书任务交给本机 Codex** | 开发工具与自动化项目：【实用工具】自托管小工具将飞书任务交给本机 Codex。涉及主题：上下文与长文本、开源项目、本地部署。信息与资格需结合发布日期及官方规则核实。 | 2026-11-27 | [查看验真](https://www.xianrenbing.com/deal/1000003149) |
+| **【AI前沿】开源 Google Antigravity 反重力 Chrome 桥接与内联实时画框插件** | AI 模型与行业资讯：【AI前沿】开源 Google Antigravity 反重力 Chrome 桥接与内联实时画框插件。涉及主题：编程开发、开源项目。信息与资格需结合发布日期及官方规则核实。 | 2026-11-27 | [查看验真](https://www.xianrenbing.com/deal/1000003129) |
+| **【AI前沿】Kiro AI IDE 免费档上线，每月 50 Credits 可用开放权重模型与 Claude Sonnet 4.5** | AI 模型与行业资讯：【AI前沿】Kiro AI IDE 免费档上线，每月 50 Credits 可用开放权重模型与 Claude Sonnet 4.5。信息与资格需结合发布日期及官方规则核实。 | 2026-11-27 | [查看验真](https://www.xianrenbing.com/deal/1000003117) |
+| **【AI前沿】Antigravity 桌面智能伙伴开发分享** | AI 模型与行业资讯：【AI前沿】Antigravity 桌面智能伙伴开发分享。信息与资格需结合发布日期及官方规则核实。 | 2026-11-27 | [查看验真](https://www.xianrenbing.com/deal/1000003147) |
 
 ### AI 图像、视频与多模态
 
 | 线报标题 | 亮点与条件摘要 | 日期 | 详情 |
 | --- | --- | --- | --- |
-| **【云服务器】CCS colocrossing 黑五 独立服务器特惠** | 产品优惠信息：【云服务器】CCS colocrossing 黑五 独立服务器特惠。涉及主题：云服务。信息与资格需结合发布日期及官方规则核实。 | 2026-11-24 | [查看验真](https://www.xianrenbing.com/deal/1000002915) |
+| **【实用工具】自研iOS视频逐帧A-B循环工具「逐帧FrameSnap」黑五5折** | 产品优惠信息：【实用工具】自研iOS视频逐帧A-B循环工具「逐帧FrameSnap」黑五5折。涉及主题：视频应用、续费事项、云服务。信息与资格需结合发布日期及官方规则核实。 | 2026-11-27 | [查看验真](https://www.xianrenbing.com/deal/1000003159) |
 
 ### 云算力补贴与综合福利
 
 | 线报标题 | 亮点与条件摘要 | 日期 | 详情 |
 | --- | --- | --- | --- |
-| **【AI福利】OpenAI 网页端取消订阅界面弹出下月 100% 优惠券** | 免费资源与试用活动：【AI福利】OpenAI 网页端取消订阅界面弹出下月 100% 优惠券。信息与资格需结合发布日期及官方规则核实。 | 2026-11-25 | [查看验真](https://www.xianrenbing.com/deal/1000002975) |
-| **【特惠云资源】阿里云双11活动：2核2G云服务器两年期低至200元，老用户可参与** | 产品优惠信息：【特惠云资源】阿里云双11活动：2核2G云服务器两年期低至200元，老用户可参与。涉及主题：续费事项、云服务。信息与资格需结合发布日期及官方规则核实。 | 2026-11-25 | [查看验真](https://www.xianrenbing.com/deal/1000002935) |
-| **【域名特惠】Dynadot 2026 黑五促销开启，部分后缀首年低至 0.99 美元** | 产品优惠信息：【域名特惠】Dynadot 2026 黑五促销开启，部分后缀首年低至 0.99 美元。涉及主题：域名与加速。信息与资格需结合发布日期及官方规则核实。 | 2026-11-26 | [查看验真](https://www.xianrenbing.com/deal/1000003006) |
-| **【云服务器】CloudCone 2026黑五特惠，洛杉矶VPS低至$12.24/年** | 产品优惠信息：【云服务器】CloudCone 2026黑五特惠，洛杉矶VPS低至$12.24/年。涉及主题：编程开发、云服务、存储资源。信息与资格需结合发布日期及官方规则核实。 | 2026-11-26 | [查看验真](https://www.xianrenbing.com/deal/1000003005) |
-| **【服务器特惠】ServerHost 2026 黑五年度套餐 7 美元起，含赠品活动** | 产品优惠信息：【服务器特惠】ServerHost 2026 黑五年度套餐 7 美元起，含赠品活动。涉及主题：云服务。信息与资格需结合发布日期及官方规则核实。 | 2026-11-25 | [查看验真](https://www.xianrenbing.com/deal/1000002976) |
-| **【云服务器】腾讯云华东机房黑五特惠：2核2G内存，300G流量，年缴起价1127元** | 产品优惠信息：【云服务器】腾讯云华东机房黑五特惠：2核2G内存，300G流量，年缴起价1127元。涉及主题：云服务。信息与资格需结合发布日期及官方规则核实。 | 2026-11-25 | [查看验真](https://www.xianrenbing.com/deal/1000002962) |
-| **【云服务器】CloudCone 2026 黑五 SSD VPS 促销套餐上线** | 产品优惠信息：【云服务器】CloudCone 2026 黑五 SSD VPS 促销套餐上线。涉及主题：云服务。信息与资格需结合发布日期及官方规则核实。 | 2026-11-25 | [查看验真](https://www.xianrenbing.com/deal/1000002953) |
-| **【云服务器】CloudCone 2026 黑五促销：全系 VPS 1Gbps 带宽与终身循环同价** | 产品优惠信息：【云服务器】CloudCone 2026 黑五促销：全系 VPS 1Gbps 带宽与终身循环同价。涉及主题：续费事项、支付方式、云服务。信息与资格需结合发布日期及官方规则核实。 | 2026-11-25 | [查看验真](https://www.xianrenbing.com/deal/1000002952) |
+| **【AI前沿】阿里云QoderWork CN高校认证领4000Credits及首月Pro免费** | AI 模型与行业资讯：【AI前沿】阿里云QoderWork CN高校认证领4000Credits及首月Pro免费。涉及主题：教育资格。信息与资格需结合发布日期及官方规则核实。 | 2026-11-27 | [查看验真](https://www.xianrenbing.com/deal/1000003155) |
+| **【云服务器】Oracle Cloud 免费档长期可用，Arm 云主机 2 核 12G + 200G 存储等 Always Free 服务** | 免费资源与试用活动：【云服务器】Oracle Cloud 免费档长期可用，Arm 云主机 2 核 12G + 200G 存储等 Always Free 服务。涉及主题：试用条件、云服务、存储资源。信息与资格需结合发布日期 | 2026-11-27 | [查看验真](https://www.xianrenbing.com/deal/1000003120) |
+| **【AI前沿】腾讯混元 Hy4 flash 限时免费至本周末** | AI 模型与行业资讯：【AI前沿】腾讯混元 Hy4 flash 限时免费至本周末。涉及主题：上下文与长文本、多模态能力。信息与资格需结合发布日期及官方规则核实。 | 2026-11-27 | [查看验真](https://www.xianrenbing.com/deal/1000003098) |
+| **【云服务器】DartNode 黑五无限流量 VPS 配置与价格** | 产品优惠信息：【云服务器】DartNode 黑五无限流量 VPS 配置与价格。涉及主题：云服务。信息与资格需结合发布日期及官方规则核实。 | 2026-11-27 | [查看验真](https://www.xianrenbing.com/deal/1000003154) |
+| **【云服务器】DartNode 黑五无限流量 VPS 特惠** | 产品优惠信息：【云服务器】DartNode 黑五无限流量 VPS 特惠。涉及主题：云服务。信息与资格需结合发布日期及官方规则核实。 | 2026-11-27 | [查看验真](https://www.xianrenbing.com/deal/1000003141) |
+| **【节点网络】DartNode 黑五 2026（美国休斯顿 / 犹他）特惠** | 产品优惠信息：【节点网络】DartNode 黑五 2026（美国休斯顿 / 犹他）特惠。涉及主题：续费事项。信息与资格需结合发布日期及官方规则核实。 | 2026-11-27 | [查看验真](https://www.xianrenbing.com/deal/1000003138) |
+| **【云服务器】Dartnode 黑五特惠活动上线** | 产品优惠信息：【云服务器】Dartnode 黑五特惠活动上线。涉及主题：云服务。信息与资格需结合发布日期及官方规则核实。 | 2026-11-27 | [查看验真](https://www.xianrenbing.com/deal/1000003137) |
+| **【云服务器】牛马云黑五特惠$0.79** | 产品优惠信息：【云服务器】牛马云黑五特惠$0.79。涉及主题：云服务。信息与资格需结合发布日期及官方规则核实。 | 2026-11-27 | [查看验真](https://www.xianrenbing.com/deal/1000003135) |
 
 ### 常用工具与实时推送
 
